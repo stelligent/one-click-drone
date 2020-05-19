@@ -29,7 +29,9 @@
   "dependencies": {
     "@aws-cdk/aws-ec2": "^1.39.0",
     "@aws-cdk/aws-ecs": "^1.39.0",
+    "@aws-cdk/aws-iam": "^1.39.0",
     "@aws-cdk/aws-rds": "^1.39.0",
+    "@aws-cdk/aws-s3": "^1.39.0",
     "@aws-cdk/core": "^1.39.0",
     "aws-cdk": "^1.39.0",
     "debug": "^4.1.1",
