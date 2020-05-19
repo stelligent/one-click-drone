@@ -1,0 +1,21 @@
+{
+  "name": "one-click-drone",
+  "version": "1.0.0",
+  "description": "one click deployment of Drone CI into your AWS account",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stelligent/one-click-drone.git"
+  },
+  "author": "Sepehr Laal <sepehr.laal@stelligent.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stelligent/one-click-drone/issues"
+  },
+  "homepage": "https://github.com/stelligent/one-click-drone#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.5"
+  }
+}
